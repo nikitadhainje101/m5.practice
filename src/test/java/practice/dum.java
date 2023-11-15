@@ -8,6 +8,7 @@ public class dum {
 		
 		System.out.println("hello");
 		System.out.println("kya kr rhe ho");
+		System.out.println("kya kr rhe ho");
 	}
 
 }
